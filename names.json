@@ -1,0 +1,506 @@
+[
+    {
+        "id": 0,
+        "name": "Miràs",
+        "name_balochi": "میراث",
+        "gender": "male",
+        "meaning": "Inherited property / Asset",
+        "meaning_balochi": "مالے کہ چہ پِت ءُ پیروکاں رَس اِتَگ / مِلکت / مڈّی"
+    },
+    {
+        "id": 1,
+        "name": "Chandan",
+        "name_balochi": "چندن",
+        "gender": "unisex",
+        "meaning": "Sandalwood",
+        "meaning_balochi": "سانیں درچکے / دار ئِے سکّ ترند ءُ وشبودار اِنت"
+    },
+    {
+        "id": 2,
+        "name": "Sharan",
+        "name_balochi": "شاران",
+        "gender": "female",
+        "meaning": "Sober lady / woman's headcloth / vivacious",
+        "meaning_balochi": "گراں مہزبیں جِنِک / گُشان / رُوژناہ"
+    },
+    {
+        "id": 4,
+        "name": "Mahgonag",
+        "name_balochi": "ماہگونگ",
+        "gender": "female",
+        "meaning": "Moulded like moon",
+        "meaning_balochi": "ماہ دروشُم / چو ماہ ءَ"
+    },
+    {
+        "id": 5,
+        "name": "Pátho",
+        "name_balochi": "پاتو",
+        "gender": "female",
+        "meaning": "Butterfly / Authorized / female Friend",
+        "meaning_balochi": "بالو / جنین دوست / موکل داتگیں"
+    },
+    {
+        "id": 6,
+        "name": "Deedag",
+        "name_balochi": "دیدگ",
+        "gender": "male",
+        "meaning": "Eye / apple of eye",
+        "meaning_balochi": "چم / دوست"
+    },
+    {
+        "id": 7,
+        "name": "Bahad",
+        "name_balochi": "باہَڑ",
+        "gender": "male",
+        "meaning": "Brother / Companion / Helpful / Supporter",
+        "meaning_balochi": "برات / دوست / دردوار / باسک"
+    },
+    {
+        "id": 8,
+        "name": "Maho",
+        "name_balochi": "ماہو",
+        "gender": "female",
+        "meaning": "Like Moon",
+        "meaning_balochi": "چو ماہ ءَ / ماہ دَروری"
+    },
+    {
+        "id": 9,
+        "name": "Zaheer",
+        "name_balochi": "زھیر",
+        "gender": "male",
+        "meaning": "nostalgia / wistfulness / remembrance",
+        "meaning_balochi": "بے تاھیریں ترانگ ءُ یات"
+    },
+    {
+        "id": 10,
+        "name": "Bahtawar",
+        "name_balochi": "بھتاور",
+        "gender": "female",
+        "meaning": "Lucky / Fortunate",
+        "meaning_balochi": "مَزن بھتیں مردم / نِگبھت"
+    },
+    {
+        "id": 11,
+        "name": "Mahganj",
+        "name_balochi": "مَہگنج / ماہ گنج",
+        "gender": "female",
+        "meaning": "Treasure of the moon",
+        "meaning_balochi": "ماہ ءِ گنج"
+    },
+    {
+        "id": 12,
+        "name": "Droshum",
+        "name_balochi": "دروشُم",
+        "gender": "female",
+        "meaning": "Looks / Appearance / Visage",
+        "meaning_balochi": "گوناپ / شِکل / دیم / رنگ / ڈَئول"
+    },
+    {
+        "id": 13,
+        "name": "Bashaam",
+        "name_balochi": "بشّام",
+        "gender": "male",
+        "meaning": "Monsoon / Rainy season",
+        "meaning_balochi": "گرماگ ءِ ھؤر / سانوڑ"
+    },
+    {
+        "id": 14,
+        "name": "Shali",
+        "name_balochi": "شَلی",
+        "gender": "female",
+        "meaning": "Person with an evocative language during a gathering / Golden-tongued / Well-spoken/ Jolly",
+        "meaning_balochi": " وش مجلس / وش گُش / وش توار / کندوک"
+    },
+    {
+        "id": 15,
+        "name": "Fazul",
+        "name_balochi": "فاضل",
+        "gender": "male",
+        "meaning": "Scholar / Master / Expert",
+        "meaning_balochi": "عالم / علم زانت"
+    },
+    {
+        "id": 16,
+        "name": "Sadganj",
+        "name_balochi": "سد گنج",
+        "gender": "female",
+        "meaning": "Lots of treasure",
+        "meaning_balochi": "بے ھسابیں مال ءُ داد / باز گنج"
+    },
+    {
+        "id": 17,
+        "name": "Tilyaan",
+        "name_balochi": "تِلیان",
+        "gender": "female",
+        "meaning": "Derived from Tellah (Gold) meaning 'Like Gold' ",
+        "meaning_balochi": "تِلاہ ءِ وڈیں"
+    },
+    {
+        "id": 18,
+        "name": "Sartaj",
+        "name_balochi": "سَرتاج",
+        "gender": "male",
+        "meaning": "Guide / Supreme Master /leader / Crown",
+        "meaning_balochi": "سَروک / رَھبر / سر ءِ تاج / بادشاہ"
+    },
+    {
+        "id": 19,
+        "name": "Lawang",
+        "name_balochi": "لَوَنگ",
+        "gender": "male",
+        "meaning": "Revolutionary",
+        "meaning_balochi": "آشوبی"
+    },
+    {
+        "id": 20,
+        "name": "Bijjár",
+        "name_balochi": "بِجّار",
+        "gender": "male",
+        "meaning": "An expert sword fighter / Help / Gift",
+        "meaning_balochi": "زَھمجن / داد / کُمَک"
+    },
+    {
+        "id": 21,
+        "name": "Durjan",
+        "name_balochi": "دُرجان",
+        "gender": "unisex",
+        "meaning": "Derived from Durr meaning 'pearl' and jan meaning 'Life/body'. | Unprecedented / Matchless",
+        "meaning_balochi": "بیمَٹّ ءُ دَروَر"
+    },
+    {
+        "id": 22,
+        "name": "Gamwaar",
+        "name_balochi": "گموار",
+        "gender": "unisex",
+        "meaning": "sympathetic / Sympathizer",
+        "meaning_balochi": "کسے ءِ درد ءَ ورَگ / کسے ءِ پگر ءُ هیال ءَ دارگ"
+    },
+    {
+        "id": 23,
+        "name": "Gazzén",
+        "name_balochi": "گزّین",
+        "gender": "male",
+        "meaning": "Sober",
+        "meaning_balochi": "گران ءُ سنگین"
+    },
+    {
+        "id": 24,
+        "name": "Pulleen",
+        "name_balochi": "پُلّین",
+        "gender": "male",
+        "meaning": "Flowery / Covered with flowers / Flower-like",
+        "meaning_balochi": "چو کہ پُلّ ءَ / پُلّ درور"
+    },
+    {
+        "id": 25,
+        "name": "Màhrang",
+        "name_balochi": "مَہرنگ",
+        "gender": "female",
+        "meaning": "Moon like / Beautiful",
+        "meaning_balochi": "ماہ ءِ وَڑیں / شَرّنگ"
+    },
+    {
+        "id": 26,
+        "name": "Láleen",
+        "name_balochi": "مَہرنگ",
+        "gender": "female",
+        "meaning": " Derived from lāl meaning 'ruby' / Like Ruby",
+        "meaning_balochi": " لال گونگیں / ھما کہ گوں لال ءَ سیادی کنت / لال ؛ گران کیمتی سنگے (آکوت)"
+    },
+    {
+        "id": 27,
+        "name": "Mureed",
+        "name_balochi": "مُرید",
+        "gender": "male",
+        "meaning": "Follower / Devotee / Disciple",
+        "meaning_balochi": "تابیدار / پیرے ءِ منّوگر / منّوگر"
+    },
+    {
+        "id": 28,
+        "name": "Hani",
+        "name_balochi": "ھانی",
+        "gender": "female",
+        "meaning": "Beautiful Girl",
+        "meaning_balochi": "شَرّنگیں جِنک"
+    },
+    {
+        "id": 29,
+        "name": "Nazeenk / Nazeynk",
+        "name_balochi": "نازینک",
+        "gender": "female",
+        "meaning": "A song of praise for bride or bridegroom or someone / lullaby",
+        "meaning_balochi": "ھما سوت پہ بانور یا سالونک /  یا پہ مردمے ءِ نازینگ ءَ گْوشگ بیت"
+    },
+    {
+        "id": 30,
+        "name": "Beebarg / Beebagr",
+        "name_balochi": "بیبگر / بیبرگ",
+        "gender": "male",
+        "meaning": "Brave / courageous / a big-hearted person",
+        "meaning_balochi": "بھادُر / نَتُرس / دلیر / مزن جگر"
+    },
+    {
+        "id": 31,
+        "name": "Bánadi",
+        "name_balochi": "بانڑی",
+        "gender": "female",
+        "meaning": "Honourable / Respected / Respectable",
+        "meaning_balochi": " شَرپدار / با عزت / اِزتدار"
+    },
+    {
+        "id": 32,
+        "name": "Kiyya",
+        "name_balochi": "کیّا",
+        "gender": "male",
+        "meaning": "Chieftain / Leader / Elder",
+        "meaning_balochi": "گھترین کماش / مستِر / سردار / جوانیں سر"
+    },
+    {
+        "id": 33,
+        "name": "Shayhak",
+        "name_balochi": "شیھَک",
+        "gender": "male",
+        "meaning": "truth / truthfulness / correctness",
+        "meaning_balochi": "راستی"
+    },
+    {
+        "id": 34,
+        "name": "Mahnaaz",
+        "name_balochi": "مَھناز",
+        "gender": "female",
+        "meaning": "Like the moon with pride",
+        "meaning_balochi": "چو ماہ ءَ نازاکیں جنین"
+    },
+    {
+        "id": 35,
+        "name": "Shahdad",
+        "name_balochi": "شھداد",
+        "gender": "male",
+        "meaning": "Gift from God",
+        "meaning_balochi": "حدا ءِ داتگیں / شاہ ءِ داتگیں"
+    },
+    {
+        "id": 36,
+        "name": "Shadri",
+        "name_balochi": "شَدری",
+        "gender": "female",
+        "meaning": "Expensive / costly / pricey",
+        "meaning_balochi": "گرانبھا / گرانکیمت"
+    },
+    {
+        "id": 37,
+        "name": "Dódá",
+        "name_balochi": "دودا",
+        "gender": "male",
+        "meaning": "Civilized / Hospitableness / Protector of Traditions",
+        "meaning_balochi": "میارجلی / مزن مردی / دورانی پہریزوک"
+    },
+    {
+        "id": 38,
+        "name": "Balach",
+        "name_balochi": "بالاچ",
+        "gender": "male",
+        "meaning": "Blaze / Fire / Superior / Someone with a great rank",
+        "meaning_balochi": "دراج ءُ برزیں آس / بالاتر / بالادست"
+    },
+    {
+        "id": 39,
+        "name": "Shári",
+        "name_balochi": "شاری",
+        "gender": "female",
+        "meaning": "Respectful / honourable / reputable",
+        "meaning_balochi": "باعزت / اَدبدار"
+    },
+    {
+        "id": 40,
+        "name": "Nód",
+        "name_balochi": "نود",
+        "gender": "unisex",
+        "meaning": "Drizzling cloud / Cloud that drizzles but does not rain.",
+        "meaning_balochi": "ھما جمبر کہ نہ گواریت بلکیں شنزیت"
+    },
+    {
+        "id": 41,
+        "name": "Haokár",
+        "name_balochi": "ھَوکار",
+        "gender": "male",
+        "meaning": "Yes-man / A person who agrees with everything that is said",
+        "meaning_balochi": "ھما مردم کہ ہرچ کارے پرمائے مہ کن نہ کنت۔"
+    },
+    {
+        "id": 42,
+        "name": "Kambar",
+        "name_balochi": "کمبر",
+        "gender": "male",
+        "meaning": "Patterned in black and white dots / skilful",
+        "meaning_balochi": "اسپیت ءُ سیاہ / باز رنگ / بازیں کارانی زانوک"
+    },
+    {
+        "id": 43,
+        "name": "Hammal",
+        "name_balochi": "حمّل",
+        "gender": "male",
+        "meaning": "Hard worker / Brave",
+        "meaning_balochi": "جفا کش / زھمتکش / بہادر"
+    },
+    {
+        "id": 44,
+        "name": "Chakar",
+        "name_balochi": "چاکر",
+        "gender": "male",
+        "meaning": "servant / employee",
+        "meaning_balochi": "خدمت گار / ھزمتکار"
+    },
+    {
+        "id": 45,
+        "name": "Jeehand / Jihand",
+        "name_balochi": "جیئند",
+        "gender": "male",
+        "meaning": "Life / Existence",
+        "meaning_balochi": "زندگی / زِند / زِندمان"
+    },
+    {
+        "id": 46,
+        "name": "Tokali / Toukali",
+        "name_balochi": "تئوکلی",
+        "gender": "male",
+        "meaning": "Enterpriser/ Courageous",
+        "meaning_balochi": "اِرادہ کنوک"
+    },
+    {
+        "id": 47,
+        "name": "Boheer / Bouheer",
+        "name_balochi": "بوہیر / بوھیر",
+        "gender": "male",
+        "meaning": "Hospitable / Fragrance / Honourable",
+        "meaning_balochi": "وشبوہ / میارجل / شرپدار"
+    },
+    {
+        "id": 48,
+        "name": "Jahandeed",
+        "name_balochi": "جہاندید",
+        "gender": "male",
+        "meaning": "Expert / Intellectual / Knowledgeable",
+        "meaning_balochi": "زانتکار / پھمندگ / کئوّاس"
+    },
+    {
+        "id": 49,
+        "name": "Parmásh",
+        "name_balochi": "پَرماش",
+        "gender": "male",
+        "meaning": "A plant species in the legume / A type of Grain/Cereal ",
+        "meaning_balochi": "ماش ءِ زات ءِ دَھلے / یک دَھلے"
+    },
+    {
+        "id": 50,
+        "name": "Brahdár",
+        "name_balochi": "بْراھدار",
+        "gender": "female",
+        "meaning": "Beautiful / Good-looking / Gorgeous",
+        "meaning_balochi": "زیبا / ڈئولدار / شرّنگ / جلوھناک"
+    },
+    {
+        "id": 51,
+        "name": "Aumaan",
+        "name_balochi": "اومان",
+        "gender": "male",
+        "meaning": "Yearning / Longing / Desire / Uneasy",
+        "meaning_balochi": "بے تاھیری / زھیر / ترانگ"
+    },
+    {
+        "id": 52,
+        "name": "Andaam",
+        "name_balochi": "اَندام",
+        "gender": "female",
+        "meaning": "Whole being / Manners / Politeness / A straight forward person",
+        "meaning_balochi": "زیبا / ڈئولدار / شرّنگ / جلوھناک"
+    },
+    {
+        "id": 53,
+        "name": "Granàz",
+        "name_balochi": "گراناز",
+        "gender": "female",
+        "meaning": "Civilized / Sober / A lady of pride and glory",
+        "meaning_balochi": "گران ءُ سنگینیں زال / ٹہل ءُ ناز کنوکیں جِنک"
+    },
+    {
+        "id": 54,
+        "name": "Inaash",
+        "name_balochi": "اِناش",
+        "gender": "female",
+        "meaning": "Symbol / Milestone / Courageous / Brave",
+        "meaning_balochi": "نِشان / کُنگُر  / دِلیر"
+    },
+    {
+        "id": 55,
+        "name": "Abram",
+        "name_balochi": "اَبْرَم",
+        "gender": "male",
+        "meaning": "Nature",
+        "meaning_balochi": "فطرت"
+    },
+    {
+        "id": 56,
+        "name": "Ehraam",
+        "name_balochi": "اَبْرَم",
+        "gender": "female",
+        "meaning": "Beautiful girl/lady",
+        "meaning_balochi": "شرّنگیں جنک"
+    },
+    {
+        "id": 57,
+        "name": "Aumar",
+        "name_balochi": "اُومر",
+        "gender": "male",
+        "meaning": "Person of words / Desirous / Desiring",
+        "meaning_balochi": "واہگدار/ قول ءِ سرا اوشتوک"
+    },
+    {
+        "id": 58,
+        "name": "Ashkaam",
+        "name_balochi": "اَشکام",
+        "gender": "male",
+        "meaning": "Peace / Tranquillity / Calm",
+        "meaning_balochi": " تاھیر / امن / ایمنی"
+    },
+    {
+        "id": 59,
+        "name": "Abeeli",
+        "name_balochi": "اَبیلی",
+        "gender": "female",
+        "meaning": "Patriot",
+        "meaning_balochi": "وتن ءِ شیدا"
+    },
+    {
+        "id": 60,
+        "name": "Ambari",
+        "name_balochi": "اَمبری",
+        "gender": "female",
+        "meaning": "Scentful",
+        "meaning_balochi": "وشبوہ کنوک"
+    },
+    {
+        "id": 61,
+        "name": "Ezgind",
+        "name_balochi": "اَمبری",
+        "gender": "female",
+        "meaning": " A kind of herb / Shirazi thyme / Zataria multiflora Boiss",
+        "meaning_balochi": "تھلگی دواہے"
+    },
+    {
+        "id": 62,
+        "name": "Hambal",
+        "name_balochi": "ھَمبَل",
+        "gender": "male",
+        "meaning": "Friend of equal status / Companion / Comrade",
+        "meaning_balochi": "بیل / دوست / ھمراہ / سنگت"
+    },
+    {
+        "id": 63,
+        "name": "Mestàg",
+        "name_balochi": "مِستاگ",
+        "gender": "unisex",
+        "meaning": "Good News",
+        "meaning_balochi": "وشّیں ھال"
+    }
+]

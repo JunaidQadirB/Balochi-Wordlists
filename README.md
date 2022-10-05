@@ -9,6 +9,7 @@ This repository may contain different word lists extracted from the main wordlis
 - `seasons.txt` for season names
 - `directions.txt` for direction names
 - `days.txt` for the name of the days of the week
+- `names.json` for names with english and balochi meanings
 
 # Attribution
  In order to be fair, if you use all or part of this wordlist, please add a link to this repository and give due credits.
